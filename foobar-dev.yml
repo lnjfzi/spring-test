@@ -16,3 +16,5 @@ spring:
 
 encrypt:
   key: foo  # curl -X POST http://localhost:8080/encrypt -d foobar  失败
+
+profile: kakaka  
